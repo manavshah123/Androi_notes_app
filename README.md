@@ -17,3 +17,6 @@
   <img src="https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op2.jpeg" width="220" /> 
   <img src="https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op.mp4" width="220" />
 </p>
+  
+[![asciicast](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op1.jpeg)](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op.mp4)
+

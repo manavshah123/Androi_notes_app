@@ -18,5 +18,5 @@
   <img src="https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op.mp4" width="220" />
 </p>
   
-[![asciicast](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op1.jpeg)](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op.mp4)
+[![asciicast](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op1.jpeg) width="300"](https://github.com/manavshah123/Androi_notes_app/blob/master/outputs/op.mp4)
 
